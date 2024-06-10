@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Baby</string>
+    <string-array name="country_name">
+        <item>GURU MONTRA</item>
+        <item>SHIV MONTRA</item>
+        <item>KRISHNA MONTRA</item>
+        <item>RADHA MONTRA</item>
+        <item>MOHA MONTRA</item>
+        <item>LAXMI MONTRA</item>
+
+
+
+    </string-array>
+
+
+</resources>
